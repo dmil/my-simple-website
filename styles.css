@@ -1,5 +1,5 @@
 html {
-	background-color: gray;
+	background-color: green;
 }
 
 body {
@@ -19,4 +19,11 @@ table {
 td {
 	border: 1px black solid;
 	padding: 5px;
+}
+
+/* Pizzaz!!  */
+marquee{
+	font-size:50px;
+	background: pink;
+	font-family: 'Brush Script MT', cursive;
 }
